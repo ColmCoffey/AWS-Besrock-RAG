@@ -1,6 +1,7 @@
 # Building a Retrieval-Augmented Generation (RAG) System with Amazon Bedrock
 
----
+![rag_system_architecture](https://github.com/user-attachments/assets/c27f927e-434a-41aa-910a-d2c91514f388)
+
 
 ## Executive Summary
 
